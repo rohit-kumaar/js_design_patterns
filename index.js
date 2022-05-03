@@ -6,4 +6,5 @@ function loadScript(url) {
   head.appendChild(script);
 }
 
-loadScript("01-null-object/script.js");
+// loadScript("01-null-object/script.js");
+loadScript("02-builder-pattern/script.js");
